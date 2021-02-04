@@ -8,12 +8,12 @@ menu: wiki
 permalink: /wiki/
 ---
 
-> 記多少指令和快速鍵會讓曩帶爆炸呢？
+> 記多少指令和快速鍵會讓腦袋爆炸呢？
 
 <ul class="listing">
 {% for wiki in site.wiki %}
 {% if wiki.title != "Wiki Template" and wiki.topmost == true %}
-<li class="listing-item"><a href="{{ site.url }}{{ wiki.url }}"><span class="top-most-flag">[置顶]</span>{{ wiki.title }}</a></li>
+<li class="listing-item"><a href="{{ site.url }}{{ wiki.url }}"><span class="top-most-flag">[置頂]</span>{{ wiki.title }}</a></li>
 {% endif %}
 {% endfor %}
 {% for wiki in site.wiki %}
