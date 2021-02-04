@@ -5,7 +5,7 @@ description: 人越學越覺得自己無知
 keywords: 維基, Wiki
 comments: false
 menu: wiki
-permalink: /edward.github.io/wiki/
+permalink: /wiki/
 ---
 
 > 記多少指令和快速鍵會讓曩帶爆炸呢？

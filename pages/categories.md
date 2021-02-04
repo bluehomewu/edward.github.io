@@ -5,7 +5,7 @@ description: 哈哈，你找到了我的文章基因庫
 keywords: 分類
 comments: false
 menu: 分類
-permalink: /edward.github.io/categories/
+permalink: /categories/
 ---
 
 <section class="container posts-content">

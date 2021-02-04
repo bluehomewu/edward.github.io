@@ -5,7 +5,7 @@ description: 自我介紹
 keywords: EdwardWu, bluehomewu, 
 comments: true
 menu: 關於我
-permalink: /edward.github.io/about/
+permalink: /about/
 ---
 
 我是 Edward Wu
