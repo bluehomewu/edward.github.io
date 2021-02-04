@@ -1,41 +1,23 @@
 ---
 layout: page
-title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+title: 關於我
+description: 自我介紹
+keywords: EdwardWu, bluehomewu, 
 comments: true
-menu: 关于
+menu: 關於我
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
-
-## 联系
-
-<ul>
-{% for website in site.data.social %}
-<li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
-{% endfor %}
-{% if site.url contains 'mazhuang.org' %}
-<li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
-</li>
-{% endif %}
-</ul>
+我是 Edward Wu
 
 
-## Skill Keywords
+## 聯絡我
 
-{% for skill in site.data.skills %}
-### {{ skill.name }}
-<div class="btn-inline">
-{% for keyword in skill.keywords %}
-<button class="btn btn-outline" type="button">{{ keyword }}</button>
-{% endfor %}
-</div>
-{% endfor %}
+- Telegram：[Edward Wu](https://t.me/edwardwu0223)
+- 行有餘力的話，可以考慮捐款給我
+<p align="center">
+<a href="https://github.com/bluehomewu"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
+<a href="mailto:bluehome.wu@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></p></a>
+</p>
+
+

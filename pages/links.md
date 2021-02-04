@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Links
-description: 没有链接的博客是孤独的
-keywords: 友情链接
+description: 沒有鏈接的 blog 是孤獨的
+keywords: 友站
 comments: true
-menu: 链接
+menu: 鏈接
 permalink: /links/
 ---
 
@@ -18,12 +18,4 @@ permalink: /links/
 {% endfor %}
 </ul>
 
-> 友情链接
-
-<ul>
-{% for link in site.data.links %}
-  {% if link.src == 'www' %}
-  <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
+> 友站鏈接
