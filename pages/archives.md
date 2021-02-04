@@ -5,7 +5,7 @@ description: 按照年份歸檔
 keywords: 歸檔
 comments: false
 menu: 歸檔
-permalink: /archives/
+permalink: /edward.github.io/archives/
 ---
 
 <section class="container posts-content">

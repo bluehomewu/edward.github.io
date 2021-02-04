@@ -3,7 +3,7 @@ layout: default
 title: Open Source Projects
 keywords: 開源,open-source,GitHub,開源項目
 description: 開源改變世界。
-permalink: /open-source/
+permalink: /edward.github.io/open-source/
 ---
 
 {% if site.github.public_repositories != false %}

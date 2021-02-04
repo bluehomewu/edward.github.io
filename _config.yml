@@ -120,7 +120,7 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: bluehomewu
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462

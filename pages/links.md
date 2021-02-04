@@ -5,7 +5,7 @@ description: 沒有鏈接的 blog 是孤獨的
 keywords: 友站
 comments: true
 menu: 鏈接
-permalink: /links/
+permalink: /edward.github.io/links/
 ---
 
 > God made relatives. Thank God we can choose our friends.
